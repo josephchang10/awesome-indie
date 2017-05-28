@@ -1,7 +1,7 @@
 # awesome-indie
 帮助独立开发者挣钱的资源。
 
-([GitHub - sindresorhus/awesome: Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+![](README/https://github.com/sindresorhus/awesome)
 
 从自己的代码中赚钱从未如此简单，但依然还是很难。我尝试在这里整理一系列资源来帮助所有希望利用电子产品挣钱的人，希望你们能够从中获得鼓舞并尝试一下。将 side project 变成钱、产生创业想法等等。
 
