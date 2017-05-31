@@ -78,4 +78,10 @@ bootstrapped.io 上用户提交的文章每周最佳文章摘要。由 [Darren S
 * [Entreprogrammers](http://entreprogrammers.com/)
 给专家级开发者的播客。从 2014 年由 [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) 和 [Charles Max Wood](https://twitter.com/cmaxw) 运营。 
 * [IndieHackers](https://www.indiehackers.com/businesses)
-在此播客中，由 [Courtland Allen](https://twitter.com/csallen?lang=ca) 采访一些该网站上最成功的独立黑客。
+在此播客中，由 [Courtland Allen](https://twitter.com/csallen?lang=ca) 采访一些该网站上最成功的独立黑客。启动于 2017 年初，已经有 12 集，内容丰富，精心制作了相关的笔记和链接。
+* [The SaaS Bootstrapper](http://thesaasbootstrapper.com/)
+与企业家和 bootstrappers 进行有关 bootstrapping、Saas、增长、市场和其它创业主题的采访。作者是 Mac Martine。
+* [Smart Passive Income](https://www.smartpassiveincome.com/podcasts/)
+不是真正具体到开发者，在几种产品类型上有很棒的内容，帮你在线把钱挣了。作者是 [Pat Flynn](https://twitter.com/patflynn)。
+* [Giant Robots](http://giantrobots.fm/)
+Ben Orenstein（Thoughtbot 的前增长/产品主管）以及 Derrick Reimer（Drip 的联合创始人），每周一次，探讨他们的 SaaS 业务。
