@@ -1,8 +1,6 @@
 # awesome-indie
 帮助独立开发者挣钱的资源。
 
-![](README/https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-
 从自己的代码中赚钱从未如此简单，但依然还是很难。我尝试在这里整理一系列资源来帮助所有希望利用电子产品挣钱的人，希望你们能够从中获得鼓舞并尝试一下。将 side project 变成钱、产生创业想法等等。
 
 实际上，项目不需要很大，如果不大的话会更好，只需要能够盈利即可。在最初大量的工作后，可能会产生被动的收入，甚至可能帮你达到经济独立，谁知道呢。
@@ -61,3 +59,17 @@ Nugget.one 专注于帮助软件开发者推出成功的 side project。成为�
 ### 新闻
 * Bootstrappers.io
 bootstrapped.io 上用户提交的文章每周最佳文章摘要。由 [Darren Stuart](https://twitter.com/ninjamonk) 策划。
+* [IndieHackers](https://www.indiehackers.com/businesses)
+包含该网站最新采访和论坛的最佳线索的新闻。通常在周四发布。作者是 [Courtland Allen](https://twitter.com/csallen?lang=ca)。
+* [Indie](https://justinjackson.ca/indie/)
+给独立开发者的故事、课程和灵感。作者是 [Justin Jackson](https://twitter.com/mijustin)。
+* [The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)
+内容包括 bootstrapping、Saas、增长以及其它创业主题，由 [Mac Martine](http://macmartine.com/) 策划。
+
+### 播客
+* [Startups for the rest of us](http://www.startupsfortherestofus.com/)
+由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办于 2010 年，几乎涉及了创业中的一切。[这里](http://www.startupsfortherestofus.com/greatest-hits)可以找到他们播客的“最佳“合集。
+* [Product People](http://www.productpeople.tv/)
+专注于伟大的产品和制作它们的人。从 2012 年开始。作者是 [Justin Jackson](https://twitter.com/mijustin)。
+* bootstrapped.fm
+关于在线 bootstrapping 业务的几个不同主题。从 2013 年开始，作者是 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov)。
