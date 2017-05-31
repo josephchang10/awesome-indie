@@ -33,28 +33,28 @@
 
 ### 社区
 * [IndieHackers](https://www.indiehackers.com/businesses)
-从可盈利的企业和 side project 中学习。IndieHackers 大概就是独立收入这个新浪潮的催化剂。这是一系列成功开发者关于产品的访谈。IndieHackers  一直都非常有趣，因为它本身就是一个独立项目。[Courtland Allen](https://twitter.com/csallen?lang=ca)曾经毫无保留地介绍了构建它的过程。最近的消息让人们认为这个社区/论坛会继续成长。
-* Barnacl.es
-给创业者（bootstrappers）看的新闻，而不是 VC 或 黑客。像 Hacker-News 一样的社区。[Peter Bhat Harkins](https://twitter.com/pushcx) 从 2016 年早期启动，我从那时起就发现了它的巨大价值。而且，它运营在[伟大的软件](https://github.com/jcs/lobsters)上，也是值得钦佩的一点！
-* bootstrapped.fm 论坛
-创业者的论坛。[Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 在2013 年启动，延续了目前已经停运的 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz) 。
+从可盈利的企业和 side project 中学习。IndieHackers 可以说是独立收入这波新浪潮的催化剂。这是一系列成功的开发者关于产品的访谈。IndieHackers  一直都很有意思，因为它本身就是一个独立项目。[Courtland Allen](https://twitter.com/csallen?lang=ca) 曾经毫无保留地介绍了[构建它的过程](https://www.indiehackers.com/blog)。近期的消息能看出这个社区/论坛会继续成长。
+* [Barnacl.es](https://barnacl.es/)
+给 bootstrappers 看的新闻，而不是 VC 或 黑客。像 Hacker-News 一样的社区。[Peter Bhat Harkins](https://twitter.com/pushcx) 在 2016 年早期启动，从那时起我就发现了它巨大的价值。而且，运行它的[软件]((https://github.com/jcs/lobsters))也相当强大，这也是值得钦佩的一点！
+* [bootstrapped.fm 论坛](http://discuss.bootstrapped.fm/)
+bootstrappers 的论坛。由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 在 2013 年启动，延续了目前已经停运的 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz) 。
 * freenode 上的 [##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)
-Matthew Mallard 2017 年初在 freenode IRC 网络上创建了这个频道，目前为止，它已经变得相当活跃和壮大。
+Matthew Mallard 2017 年初在 freenode IRC 网络上创建了这个频道，目前已经变得相当活跃和壮大。
 * [HackerNews](https://news.ycombinator.com/)
-给黑客看的新闻，大部分都是技术和创业相关的。没有特定的独立开发者，但对于每个对计算机科学、创造产品和挣钱的人来说都是必须的。很多独立开发者潜伏在这里。由 [Paul Graham](https://twitter.com/paulg) 发起。
+给黑客看的新闻，大部分都是技术和创业相关的。没有特定的独立开发者，但对于每个对计算机科学、创造产品和挣钱感兴趣的人来说都是必须的。很多独立开发者潜伏在这里。由 [Paul Graham](https://twitter.com/paulg) 发起。
 * [ProductPeople.club](https://productpeople.club/) [$]
-只有个人开发者的社区，由 [Justin Jackson](https://twitter.com/mijustin) 运营。目前有一个等待清单。终身会员需要 $249。我不是会员，所以我无法以个人名义支持它。一般来说，我对针对独立开发者的产品持怀疑态度，但我看了很多参考后仍然添加了这个产品。有些人会觉得很有意思。
+只有个人开发者的社区，由 [Justin Jackson](https://twitter.com/mijustin) 运营。目前需要排队。终身会员要 $249。我不是会员，所以我无法以个人名义支持它。一般来说，我对针对独立开发者的产品持怀疑态度，但我看了很多参考后仍然添加了这个产品。有些人会觉得很有意思。
 * [FounderCafe](https://www.foundercafe.com/) [$]
 FounderCafe 是一个邀请制的企业家在线社区，帮助彼此成功，由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 运营。每 3 个月 $99，我不是会员所以我无法自己评价。
 * [Nugget.one](https://nugget.one/) [$]
-Nugget.one 专注于帮助软件开发者推出成功的 side project。成为社区的会员可以访问案例研究室，每两周一次的在线讲座和现场指导。由 [Justin Vincent](https://twitter.com/justinvincent) 运营。每个月 $19.99 。
+Nugget.one 专注于帮助软件开发者推出成功的 side project。成为社区的会员可以访问案例研究室、每两周一次的在线讲座和现场指导。由 [Justin Vincent](https://twitter.com/justinvincent) 运营。每个月 $19.99 。
 
 其它
 
 * [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/) - 不是专门为独立开发者/创业者服务的，但仍然有一些与我们相关的内容。
 * [Bootstrapped Slack](https://bootstrapped.slack.com/)（[邀请在这里](http://www.bootstrappedchat.com/)邀请链接当前失效了，正在修复！） - 大概是起源自 bootstrapped.fm 论坛的 Slack。不是很温和。
 * [r/SideProject](https://www.reddit.com/r/SideProject/) - 相当活跃
-* [Sideprojectxyz](https://sideprojectxyz.slack.com/)（[邀请在这里](http://sideproject.xyz/)）- 为 side project 工作的人们的 Slack 社区。
+* [Sideprojectxyz](https://sideprojectxyz.slack.com/)（[邀请在这里](http://sideproject.xyz/)）- 为 side project 工作的人的 Slack 社区。
 
 ### 新闻
 * Bootstrappers.io
@@ -73,3 +73,9 @@ bootstrapped.io 上用户提交的文章每周最佳文章摘要。由 [Darren S
 专注于伟大的产品和制作它们的人。从 2012 年开始。作者是 [Justin Jackson](https://twitter.com/mijustin)。
 * bootstrapped.fm
 关于在线 bootstrapping 业务的几个不同主题。从 2013 年开始，作者是 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov)。
+* [Bootstrapped Web](http://bootstrappedweb.com/)
+”分享从我们自己所做的事中学到的东西，以及从其他人所做的事中学到的东西，以帮助我们全力以赴，引导我们的在线企业。“[Brian Casel](https://twitter.com/CasJam) 和 [Jordan Gal](https://twitter.com/JordanGal) 从 2013 年创办。
+* [Entreprogrammers](http://entreprogrammers.com/)
+给专家级开发者的播客。从 2014 年由 [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) 和 [Charles Max Wood](https://twitter.com/cmaxw) 运营。 
+* [IndieHackers](https://www.indiehackers.com/businesses)
+在此播客中，由 [Courtland Allen](https://twitter.com/csallen?lang=ca) 采访一些该网站上最成功的独立黑客。
