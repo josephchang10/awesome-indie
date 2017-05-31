@@ -85,3 +85,21 @@ bootstrapped.io 上用户提交的文章每周最佳文章摘要。由 [Darren S
 不是真正具体到开发者，在几种产品类型上有很棒的内容，帮你在线把钱挣了。作者是 [Pat Flynn](https://twitter.com/patflynn)。
 * [Giant Robots](http://giantrobots.fm/)
 Ben Orenstein（Thoughtbot 的前增长/产品主管）以及 Derrick Reimer（Drip 的联合创始人），每周一次，探讨他们的 SaaS 业务。
+
+### 演讲
+* [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) 作者是 [David Heinemeier Hansson](https://twitter.com/dhh)
+Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
+* [Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ) by [Tyler Tringas](https://twitter.com/tylertringas)
+15 分钟的演讲，充满了有价值的信息和见解，Tyler 提出了微型 Saas 的概念，并讲了他自己的故事。
+* [Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA) by [Pieter Levels](https://twitter.com/levelsio)
+最近几年最著名的独立黑客之一谈论如何把我们的 sideprojects 转变为可以赚钱的企业。非常直截了当，Pieter 总是会提供很多有见地的想法。顺便说一句，不要被他的生活方式欺骗了，他的成功来源于 500% 的工作。
+* [Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+来自最受尊敬的独立开发者之一的闪电七分钟演讲。Patrick 尝试提出的观点是独立开发者可以瞄准较小的利基市场，可能避免激烈的竞争，而且从个人业务的角度看是非常可盈利的。
+* [Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0) by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
+演讲关于建立一个成功的小型个人业务。
+
+其它
+
+* [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
+* [Talks from the BaconBizConf](http://baconbiz.com/)
+* [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
