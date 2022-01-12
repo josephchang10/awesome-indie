@@ -1,4 +1,4 @@
-# Awesome Indie
+# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 帮助独立开发者挣钱的资源。
 
 通过自己的代码来赚钱从未如此简单，但依然还是很难。我在这里尝试整理一系列资源来帮助所有希望利用软件产品挣钱的人，希望你们能够从中获得鼓舞并进行尝试。将 side project 变成钱、产生创业想法等等。
