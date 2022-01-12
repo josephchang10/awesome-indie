@@ -11,7 +11,7 @@
 
 非常欢迎贡献。
 
-原作者 @mezod 翻译 @josephchang10
+原作者 **[@mezod](https://twitter.com/mezood)** 翻译 **[@josephchang10](https://github.com/josephchang10)**
 
 **注意：**
 * [$] 表示不是免费的，我很有可能没有尝试，但因为参考的内容，仍然决定添加它。
