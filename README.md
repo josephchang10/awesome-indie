@@ -9,7 +9,7 @@
 
 所有这些资源可能会对你有所启发，并帮你走上正轨，但说到底，最重要的还是**动手去尝试**。所以认真地消化这些内容吧 :)
 
-非常欢迎贡献。
+非常欢迎参与共建。
 
 原作者 **[@mezod](https://twitter.com/mezood)** 翻译 **[@josephchang10](https://github.com/josephchang10)**
 
