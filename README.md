@@ -14,7 +14,7 @@
 原作者 **[@mezod](https://twitter.com/mezood)** 翻译 **[@josephchang10](https://github.com/josephchang10)**
 
 **注意：**
-* [$] 表示不是免费的，我很有可能没有尝试，但因为参考的内容，仍然决定添加它。
+* [$] 表示这不是免费的，我很可能也没试过，但在参考多方资料后，仍然决定将其收录。
 * 这个 repo 曾经登顶 [Github 趋势榜第一名](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)！:_)
 
 ## 目录
